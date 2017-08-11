@@ -1,0 +1,17 @@
+{
+  "name": "generator-tsf",
+  "version": "0.1.1",
+  "license": "MIT",
+  "description": "Yeoman generator for TypeScript Web Framework",
+  "author": "Stanislav Kondratyuk",
+  "repository": "https://github.com/stan-kondrat/tsf-generator.git",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  }
+}
