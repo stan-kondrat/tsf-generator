@@ -4,7 +4,7 @@
   "license": "MIT",
   "description": "Yeoman generator for TypeScript Web Framework",
   "author": "Stanislav Kondratyuk",
-  "repository": "https://github.com/stan-kondrat/tsf-generator.git",
+  "repository": "https://github.com/stan-kondrat/tsf-yeoman.git",
   "files": [
     "generators"
   ],
